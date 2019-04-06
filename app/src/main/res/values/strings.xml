@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">home medicine kit</string>
+    <string name="pills">Таблетки</string>
+    <string name="drops">Краплі</string>
+    <string name="ointment">Мазі</string>
+    <string name="spray">Спреї</string>
+    <string name="add">Додати</string>
+    <string name="remove">Видалити</string>
+    <string name="view">Переглянути</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
